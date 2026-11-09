@@ -1,0 +1,1 @@
+{"companies": [{"name": "Wayve", "hq_country": "United Kingdom", "sector": "Autonomous driving", "round": "Series C+", "amount_usd": 1050000000, "lead_investors": ["SoftBank Group"], "evidence": "Wayve announces a $1.05 billion Series C investment round led by SoftBank Group"}]}

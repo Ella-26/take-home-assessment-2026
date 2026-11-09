@@ -1,0 +1,15 @@
+line,company,action,detail
+2,SwiftSend,excluded,2026-06-28 is outside Q3 2026
+4,Kirana Fleet Pte Ltd,dropped duplicate,"same deal as line 3 (Kirana Fleet, TechWire)"
+7,PayLoom,sector renamed,FinTech -> Fintech
+7,PayLoom,dropped duplicate,"same deal as line 6 (PayLoom, TechWire)"
+8,AgroSense,converted,"400,000,000 INR -> US$4.80M"
+10,LedgerLeaf,flagged (kept),US$250.00M is above US$20.00M for a Seed round
+12,Portline,converted,"25,000,000 SGD -> US$19.25M"
+17,VitaLab,converted,"7,000,000 SGD -> US$5.39M"
+18,Kopi Pay,sector renamed,FinTech -> Fintech
+18,Kopi Pay,converted,"11,000,000 SGD -> US$8.47M"
+19,SoilSense,converted,"1,500,000,000 INR -> US$18.00M"
+20,Dockside,date reformatted,18/09/2026 -> 2026-09-18
+21,GridCool,converted,"4,000,000 SGD -> US$3.08M"
+23,Pulsewise,excluded,2026-10-02 is outside Q3 2026

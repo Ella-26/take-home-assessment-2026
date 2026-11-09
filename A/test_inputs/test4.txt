@@ -1,0 +1,60 @@
+Wayve announces a $1.05 billion Series C investment round led by SoftBank Group, with contributions from new investor NVIDIA and existing investor Microsoft, to accelerate its mission to reimagine autonomous mobility through embodied intelligence.
+Wayve announces a $1.05 billion Series C investment round led by SoftBank Group (“SoftBank”), with contributions from new investor NVIDIA and existing investor Microsoft, to accelerate its mission to reimagine autonomous mobility through embodied intelligence. 
+Embodied AI, which integrates advanced AI into vehicles and robots to transform how machines interact with, comprehend, and learn from human behavior in real-world environments, is paving the way for greater usability and safety in autonomous driving systems.
+Founded in 2017, British AI company Wayve is a pioneer in Embodied AI for autonomous driving, having been the first to develop and test an end-to-end (e2e) deep learning autonomous driving system on public roads. Today, the company is building foundation models for autonomy, similar to a ‘GPT for driving,’ that can empower any vehicle to see, think, and drive through any environment.
+This investment supports Wayve in fully developing and launching the first Embodied AI products for production vehicles. As Wayve’s core AI model advances, these products will enable OEMs to efficiently upgrade cars to higher levels of driving automation, from L2+ assisted driving to L4 automated driving.
+Wayve, the market leader in Embodied artificial intelligence (AI) for autonomous driving, is thrilled to announce the successful closure of $1.05 billion in Series C funding. This round was led by SoftBank Group (“SoftBank”), with contributions from new investor NVIDIA and existing investor Microsoft. This investment will accelerate Wayve’s mission to reimagine autonomous mobility through embodied intelligence.
+
+Embodied AI represents the next frontier of AI innovation, going beyond Generative AI and large language models. The integration of Embodied AI into vehicles and robots will lead to a paradigm shift in how machines interact with and learn from human behavior in real-world environments. This innovation holds tremendous potential to enhance the usability and safety of autonomous driving systems, empowering them with the intelligence to confidently navigate situations that do not follow strict patterns or rules, such as unexpected actions by drivers, pedestrians, or environmental elements.
+
+Founded in 2017, Wayve has emerged as a trailblazer in the field of Embodied AI for autonomous driving. Notably, Wayve was the first to develop and test an end-to-end (e2e) AI autonomous driving system on public roads. This pioneering effort paved the way for an industry-wide shift towards AI, coined ‘AV2.0’. Through their long-standing work, Wayve has successfully developed foundation models for autonomy, similar to a ‘GPT for driving,’ that can empower any vehicle to perceive its surroundings and safely drive through diverse environments.
+
+The integration of Embodied AI into vehicles and robots will lead to a paradigm shift in how machines interact with and learn from human behavior in real-world environments.
+
+Wayve has dedicated years of extensive research and development to establishing itself as the market leader in AV2.0. They have developed hardware-agnostic AI driving models for mapless autonomous driving and a suite of innovative technologies, such as fleet learning, data infrastructure, evaluation, and simulation platforms designed to rapidly enhance their AI models using real-world and simulated data. 
+
+By leveraging Wayve’s advanced proprietary tools, OEMs and fleet owners can generate valuable data assets that bridge the gap between raw data and unparalleled driving capabilities. Moreover, the company’s research on multimodal and generative models, known as LINGO and GAIA, is driving the automotive industry towards a future where AI in vehicles can offer advanced features like intuition, language-responsive interfaces, personalized driving styles, and co-piloting to enhance the automated driving experience.
+
+Alex Kendall, Co-founder and CEO of Wayve: 
+“At Wayve, our vision is to develop autonomous technology that not only becomes a reality in millions of vehicles but also earns people’s trust by seamlessly integrating into their everyday lives to unlock extraordinary value. This significant funding milestone highlights our team’s unwavering conviction that Embodied AI will address the long-standing challenges the industry has faced in scaling this technology to everyone, everywhere.
+
+Our collaboration with SoftBank, NVIDIA, and Microsoft will help advance our mission to redefine driving with AI at the core. This investment will enable us to develop and launch our first Embodied AI products for the automotive industry, empowering OEMs to provide consumers with trustworthy and beneficial automated driving experiences.”
+
+Kentaro Matsui, Managing Partner at SoftBank Investment Advisers, Head of the New Business Office at SoftBank Group and Board Member at Wayve:
+“AI is revolutionizing mobility. Vehicles can now interpret their surroundings like humans, enabling enhanced decision-making that promises higher safety standards. The potential of this type of technology is transformative; it could eliminate 99% of traffic accidents. SoftBank Group is delighted to be at the forefront of this effort with Wayve, as advanced intelligence redefines mobility and connectivity, contributing to a more convenient and safer society.”
+
+Rishi Dhall, Vice President of Automotive Business at NVIDIA:
+“Wayve is pioneering new AI applications for their next-generation AV2.0 approach, built on NVIDIA DRIVE Orin and DRIVE Thor, which uses the new NVIDIA Blackwell architecture designed for transformer, LLM, and Generative AI workloads. Together, we can help enable self-driving vehicles that deliver the intelligence, dependability, and skill of the best human drivers.”
+
+Dominik Wee, Corporate Vice President of Manufacturing and Mobility at Microsoft:
+“Microsoft is pleased to be working with Wayve to develop and deploy Wayve’s end-to-end AI autonomous driving products for automotive enterprise customers. By utilizing Microsoft’s supercomputing capabilities and cloud computing technology, copilot-enabled developer platform, enterprise data management applications, and leading AI model commercialization expertise, Wayve can deliver and scale innovative Embodied AI solutions that enable safer and more accessible autonomous driving experiences.”
+This Series C investment enables Wayve to fully develop and launch the first Embodied AI products for production vehicles.
+Wayve’s hardware-agnostic, mapless product solutions allow OEMs to efficiently software upgrade cars to higher levels of driving automation (from ‘eyes on’ assisted driving to ‘eyes off’ fully automated driving) as Wayve’s AI models progress. The company will also focus on scaling its foundation models, advancing Embodied AI research, and building an industry-leading AV2.0 Platform with reliable simulation, measurement, and active learning tools for automotive applications. Finally, funds will enable Wayve to expand operations and partnerships in new markets, building geographically diverse data assets and attracting global talent.
+
+Seth Winterroth, Partner at Eclipse Ventures and Board Member at Wayve:
+“Since the company’s inception, Wayve has led AI innovation, initially pioneering the once-highly contrarian concept of end-to-end AI to now reshaping the industry with their visionary approach. The team’s commitment to challenging the status quo and persistence in seeing it through demonstrate their capacity to make a big, long lasting impact on the world. The application of AI in critical safety tasks like driving goes beyond simply tacking on a large language model to a vehicle — it demands specialized model architectures, extensive fleet learning, diverse driving datasets, access to supercomputing at scale, and smart regulations that both protect consumers and foster innovation. Wayve’s team has dedicated years to gaining a competitive edge in these key areas, uniquely positioning the company to unlock the vast potential of Embodied AI for automotive and beyond.”
+
+Prime Minister, Rt Hon Rishi Sunak MP:
+“From the first electric light bulb or the World Wide Web to AI and self-driving cars, the UK has a proud record of being at the forefront of some of the biggest technological advancements in history.
+
+“I’m incredibly proud that the UK is the home for pioneers like Wayve who are breaking ground as they develop the next generation of AI models for self-driving cars. The fact that a homegrown British business has secured the biggest investment yet in a UK AI company is a testament to our leadership in this industry and that our plan for the economy is working.
+
+“We are leaving no stone unturned to create the economic conditions for businesses to grow and thrive in the UK. We already have the third highest number of AI companies and private investment in AI in the world, and this announcement anchors the UK’s position as an AI superpower.”
+As part of the final transaction, SoftBank has joined Wayve’s Board of Directors. 
+
+To learn more about Wayve and its innovative approach to building Embodied AI for automated driving, please visit wayve.ai.
+
+—
+
+About Wayve
+Founded in 2017, Wayve is the leading developer of Embodied AI technology for automated driving. Their advanced AI software and foundation models for autonomy enable vehicles to perceive, understand, and navigate any environment, enhancing the usability and safety of autonomous driving systems. Wayve is developing mapless and hardware-agnostic Embodied AI products for automakers and fleet owners, accelerating the path from assisted to automated driving. They have conducted trials on UK public roads since 2018 and partnered with UK delivery fleets from Asda and Ocado Group. Backed by top investors like SoftBank Group, NVIDIA, and Eclipse Ventures, Wayve’s mission is to reimagine mobility with embodied intelligence. To learn more, please visit www.wayve.ai.
+
+About SoftBank Group
+The SoftBank Group invests in breakthrough technology to improve the quality of life for people around the world. The SoftBank Group is comprised of SoftBank Group Corp. (TOKYO: 9984), an investment holding company that includes stakes in AI, smart robotics, IoT, telecommunications, internet services, and clean energy technology providers; the SoftBank Vision Funds and SoftBank Latin America Funds, which are investing more than US$160 billion to help extraordinary entrepreneurs transform industries and shape new ones. To learn more, please visit https://group.SoftBank/en.
+
+Media Contacts:
+Tilly Pielichaty, Wayve: Media@wayve.ai
+Rowan Brown, SoftBank Group: Rowan@softbank.com
+
+Press Kit: https://wayve.ai/thinking/press-kit/
+For video, reach out to Wayve Media.
